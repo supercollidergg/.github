@@ -4,7 +4,7 @@
 
 ## Official Links
 
-* [Website](https://www.supercolliger.gg)
+* [Website](https://www.supercollider.gg)
 * [X/Twitter](https://www.x.com/supercollidergg)
 * [LinkedIn](https://www.linkedin.com/company/supercollidergg)
 
